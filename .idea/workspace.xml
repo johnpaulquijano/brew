@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e5ff3d1-9b1f-44f4-9f14-e6e37bee7e7a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lwjgl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brew-draft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/brew-draft.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/Geometry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/Geometry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/GraphicsObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/GraphicsObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/Renderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/Renderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/ShapeGeometry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/ShapeGeometry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Geometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/GraphicsObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/GraphicsObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Renderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/ShapeGeometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/ShapeGeometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Texture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Texture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/AnimationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/AnimationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="GLSL Shader" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZnZG92ViqMu6jefGK3inexa3cD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value=".getID() == 0&#9;null&#9;null&#10;max_shadows&#9;PSI&#9;JAVA://core.Shape#MAX_SHADOWS&#10;numCached&#9;PSI&#9;JAVA://core.ShaderCache#numCached&#10;animationEnabled&#9;PSI&#9;JAVA://module.shape.ShapeModule#animationEnabled_u&#10;DEFAULT_FILTER&#9;PSI&#9;JAVA://module.shape.Shadow#DEFAULT_FILTER_DENSITY&#10;clearBuffer&#9;PSI&#9;JAVA://core.GL#clearBuffer&#10;drawQ&#9;PSI&#9;JAVA://core.GL#drawQuads&#10;quad&#9;PSI&#9;JAVA://javafx.scene.shape.QuadCurve&#10;Reader&#9;PSI&#9;JAVA://java.io.Reader&#10;HashSet&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/deploy.jar!/com/sun/deploy/util/OrderedHashSet.class&#10;@re&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580100873033" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29166666" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\shape\processor\light\shader" />
+      <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\shape\processor\light\shader\light" />
+      <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\sky\shader" />
+      <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\shader\resources" />
+      <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\post\processor\anamorphic\shader" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="module.shape.processor.light.shader" />
+      <recent name="module.shape.processor.illumination.shader" />
+      <recent name="module.shape.processor.contour" />
+      <recent name="module.post.processor.dof" />
+      <recent name="module.post.processor.fog" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+      <recent name="module.post.processor.bloom" />
+      <recent name="module.shape.shadow" />
+      <recent name="module.shape" />
+      <recent name="core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\U002749\Documents\Projects\brew-draft" />
+      <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\shape\processor\light\shader\shadow" />
+      <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\shape\processor\illumination\shader\light" />
+      <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\shape\processor" />
+      <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\shape\processor\environment\shader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PostProcessTest">
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.AnimationTest" />
+      <module name="brew-draft" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LightTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.LightTest" />
+      <module name="brew" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostProcessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.PostProcessTest" />
+      <module name="brew-draft" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ShadowTest" />
+      <module name="brew-draft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TranslucencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TranslucencyTest" />
+      <module name="brew" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AnimationTest" />
+      <item itemvalue="Application.LightTest" />
+      <item itemvalue="Application.PostProcessTest" />
+      <item itemvalue="Application.ShadowTest" />
+      <item itemvalue="Application.TranslucencyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PostProcessTest" />
+        <item itemvalue="Application.AnimationTest" />
+        <item itemvalue="Application.ShadowTest" />
+        <item itemvalue="Application.LightTest" />
+        <item itemvalue="Application.TranslucencyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e5ff3d1-9b1f-44f4-9f14-e6e37bee7e7a" name="Default" comment="" />
+      <created>1522005050900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522005050900</updated>
+      <workItem from="1522005052233" duration="960000" />
+      <workItem from="1522069261920" duration="1332000" />
+      <workItem from="1522152670026" duration="2064000" />
+      <workItem from="1522227028809" duration="17000" />
+      <workItem from="1522231976431" duration="501000" />
+      <workItem from="1522253618255" duration="1279000" />
+      <workItem from="1522335731101" duration="739000" />
+      <workItem from="1522336823308" duration="42584000" />
+      <workItem from="1522436609996" duration="32522000" />
+      <workItem from="1522762226273" duration="2563000" />
+      <workItem from="1522830370839" duration="1400000" />
+      <workItem from="1522838587952" duration="15741000" />
+      <workItem from="1522925326205" duration="14554000" />
+      <workItem from="1522993814026" duration="9000" />
+      <workItem from="1522994804218" duration="637000" />
+      <workItem from="1523096929181" duration="5669000" />
+      <workItem from="1523192888110" duration="36357000" />
+      <workItem from="1523446574112" duration="13087000" />
+      <workItem from="1523530991331" duration="8771000" />
+      <workItem from="1523611840152" duration="9871000" />
+      <workItem from="1523634040136" duration="18469000" />
+      <workItem from="1523687491192" duration="14451000" />
+      <workItem from="1523788760474" duration="11845000" />
+      <workItem from="1523847514967" duration="699000" />
+      <workItem from="1523880811585" duration="2418000" />
+      <workItem from="1523953604168" duration="10085000" />
+      <workItem from="1523988588270" duration="1523000" />
+      <workItem from="1524051605648" duration="1205000" />
+      <workItem from="1524140980353" duration="1251000" />
+      <workItem from="1524146844152" duration="802000" />
+      <workItem from="1524151050579" duration="37000" />
+      <workItem from="1524221330116" duration="29000" />
+      <workItem from="1524663892813" duration="762000" />
+      <workItem from="1524665811205" duration="345000" />
+      <workItem from="1524937843107" duration="105000" />
+      <workItem from="1524940049633" duration="612000" />
+      <workItem from="1525331194857" duration="1097000" />
+      <workItem from="1525336889361" duration="49000" />
+      <workItem from="1526057717062" duration="136000" />
+      <workItem from="1526058903685" duration="58000" />
+      <workItem from="1526059451800" duration="191000" />
+      <workItem from="1526067466257" duration="34000" />
+      <workItem from="1528118291824" duration="251000" />
+      <workItem from="1529745579729" duration="31715000" />
+      <workItem from="1529861214121" duration="1150000" />
+      <workItem from="1529864115469" duration="7899000" />
+      <workItem from="1529918362053" duration="2878000" />
+      <workItem from="1530014980621" duration="8394000" />
+      <workItem from="1530064795432" duration="601000" />
+      <workItem from="1530097910652" duration="10759000" />
+      <workItem from="1530182803704" duration="1536000" />
+      <workItem from="1530292911463" duration="14359000" />
+      <workItem from="1530384179658" duration="28269000" />
+      <workItem from="1530445985539" duration="3984000" />
+      <workItem from="1530500500233" duration="602000" />
+      <workItem from="1530535580558" duration="9911000" />
+      <workItem from="1530584449711" duration="27000" />
+      <workItem from="1530622718467" duration="6887000" />
+      <workItem from="1530703153139" duration="5662000" />
+      <workItem from="1530727224796" duration="4527000" />
+      <workItem from="1530787752608" duration="6000" />
+      <workItem from="1530862104782" duration="595000" />
+      <workItem from="1530884282119" duration="75852000" />
+      <workItem from="1531219107970" duration="1492000" />
+      <workItem from="1531275838487" duration="601000" />
+      <workItem from="1531310463259" duration="5141000" />
+      <workItem from="1531400449726" duration="886000" />
+      <workItem from="1531401379521" duration="628000" />
+      <workItem from="1531445527230" duration="90000" />
+      <workItem from="1531477343241" duration="598000" />
+      <workItem from="1531563402878" duration="23786000" />
+      <workItem from="1531708849566" duration="641000" />
+      <workItem from="1531747514909" duration="1831000" />
+      <workItem from="1531826469440" duration="9611000" />
+      <workItem from="1531911594589" duration="12509000" />
+      <workItem from="1532003304678" duration="1483000" />
+      <workItem from="1532085351911" duration="684000" />
+      <workItem from="1532787814516" duration="597000" />
+      <workItem from="1532853780196" duration="7000" />
+      <workItem from="1532853818819" duration="4519000" />
+      <workItem from="1532951958637" duration="1432000" />
+      <workItem from="1533040832125" duration="626000" />
+      <workItem from="1533123073228" duration="596000" />
+      <workItem from="1533174887793" duration="946000" />
+      <workItem from="1533371996018" duration="15968000" />
+      <workItem from="1533736855511" duration="1393000" />
+      <workItem from="1533738665078" duration="6588000" />
+      <workItem from="1534096184674" duration="2976000" />
+      <workItem from="1534165063671" duration="12672000" />
+      <workItem from="1534241100208" duration="3450000" />
+      <workItem from="1534337789238" duration="3978000" />
+      <workItem from="1534425189444" duration="2189000" />
+      <workItem from="1534609880737" duration="17228000" />
+      <workItem from="1534664619923" duration="13914000" />
+      <workItem from="1534763340278" duration="43073000" />
+      <workItem from="1534935223271" duration="10822000" />
+      <workItem from="1535001954009" duration="15000" />
+      <workItem from="1535024231504" duration="3982000" />
+      <workItem from="1535059972001" duration="4575000" />
+      <workItem from="1535079786342" duration="4000" />
+      <workItem from="1535080345853" duration="601000" />
+      <workItem from="1535088590249" duration="7000" />
+      <workItem from="1535093821314" duration="605000" />
+      <workItem from="1535117022588" duration="90959000" />
+      <workItem from="1535536570133" duration="2211000" />
+      <workItem from="1535542501656" duration="667000" />
+      <workItem from="1535612329997" duration="34000" />
+      <workItem from="1535623950519" duration="1869000" />
+      <workItem from="1535659999390" duration="11903000" />
+      <workItem from="1535753123641" duration="28701000" />
+      <workItem from="1535973069023" duration="26061000" />
+      <workItem from="1536026349037" duration="51000" />
+      <workItem from="1536058703588" duration="13188000" />
+      <workItem from="1536141797526" duration="13097000" />
+      <workItem from="1536228244664" duration="4133000" />
+      <workItem from="1536247496147" duration="6619000" />
+      <workItem from="1536254151905" duration="5291000" />
+      <workItem from="1536316018665" duration="55322000" />
+      <workItem from="1536488937343" duration="27939000" />
+      <workItem from="1536581684222" duration="13848000" />
+      <workItem from="1536664917376" duration="2056000" />
+      <workItem from="1536769206492" duration="627000" />
+      <workItem from="1536833894842" duration="13139000" />
+      <workItem from="1536919254029" duration="31310000" />
+      <workItem from="1537183845547" duration="13570000" />
+      <workItem from="1537262784284" duration="12173000" />
+      <workItem from="1537351415109" duration="2245000" />
+      <workItem from="1537407228932" duration="60000" />
+      <workItem from="1537440322669" duration="215000" />
+      <workItem from="1537444252584" duration="4744000" />
+      <workItem from="1537451787878" duration="1768000" />
+      <workItem from="1537453616388" duration="9370000" />
+      <workItem from="1537464198032" duration="821000" />
+      <workItem from="1537465242629" duration="96000" />
+      <workItem from="1537516345702" duration="11592000" />
+      <workItem from="1537604968769" duration="59550000" />
+      <workItem from="1537784543701" duration="91000" />
+      <workItem from="1537796249102" duration="15108000" />
+      <workItem from="1537869604566" duration="8634000" />
+      <workItem from="1537926056222" duration="256000" />
+      <workItem from="1537956618256" duration="43000" />
+      <workItem from="1538015787511" duration="502000" />
+      <workItem from="1538045289337" duration="18865000" />
+      <workItem from="1538139595680" duration="9254000" />
+      <workItem from="1538478122931" duration="216000" />
+      <workItem from="1538532095613" duration="170000" />
+      <workItem from="1538581948996" duration="4213000" />
+      <workItem from="1538658461739" duration="570000" />
+      <workItem from="1538659935579" duration="1643000" />
+      <workItem from="1538704216344" duration="17000" />
+      <workItem from="1538736639572" duration="23880000" />
+      <workItem from="1538799313895" duration="36456000" />
+      <workItem from="1539093944370" duration="12149000" />
+      <workItem from="1539173907180" duration="12645000" />
+      <workItem from="1539193977317" duration="153000" />
+      <workItem from="1539232607735" duration="45000" />
+      <workItem from="1539253949678" duration="9133000" />
+      <workItem from="1539339875484" duration="25959000" />
+      <workItem from="1539511578571" duration="24533000" />
+      <workItem from="1539600824400" duration="12995000" />
+      <workItem from="1539687592766" duration="18050000" />
+      <workItem from="1539711031090" duration="5295000" />
+      <workItem from="1539768928230" duration="5201000" />
+      <workItem from="1539865037992" duration="160000" />
+      <workItem from="1539916345397" duration="7000" />
+      <workItem from="1539952356503" duration="47491000" />
+      <workItem from="1540213967456" duration="861000" />
+      <workItem from="1540214926345" duration="1743000" />
+      <workItem from="1540259614444" duration="37000" />
+      <workItem from="1540294449689" duration="2085000" />
+      <workItem from="1540379796869" duration="1225000" />
+      <workItem from="1540435140268" duration="598000" />
+      <workItem from="1540474532435" duration="11670000" />
+      <workItem from="1540629944718" duration="36687000" />
+      <workItem from="1540745292902" duration="4162000" />
+      <workItem from="1540811941232" duration="23917000" />
+      <workItem from="1540897869818" duration="661000" />
+      <workItem from="1540904350318" duration="3395000" />
+      <workItem from="1540926744574" duration="11554000" />
+      <workItem from="1540984786389" duration="92746000" />
+      <workItem from="1541438212995" duration="8299000" />
+      <workItem from="1541469062312" duration="12920000" />
+      <workItem from="1541482362907" duration="46409000" />
+      <workItem from="1541678858434" duration="5566000" />
+      <workItem from="1542105842340" duration="622000" />
+      <workItem from="1542189697605" duration="2602000" />
+      <workItem from="1542279444871" duration="1131000" />
+      <workItem from="1542365797515" duration="61000" />
+      <workItem from="1542366044288" duration="15133000" />
+      <workItem from="1542623304968" duration="8004000" />
+      <workItem from="1542711093905" duration="3835000" />
+      <workItem from="1542796313401" duration="4628000" />
+      <workItem from="1542888635374" duration="10252000" />
+      <workItem from="1542970276860" duration="5790000" />
+      <workItem from="1543229311447" duration="810000" />
+      <workItem from="1543576092701" duration="16873000" />
+      <workItem from="1543778977399" duration="4068000" />
+      <workItem from="1543834667815" duration="8244000" />
+      <workItem from="1544092569340" duration="258000" />
+      <workItem from="1544343023006" duration="2939000" />
+      <workItem from="1544972559388" duration="11742000" />
+      <workItem from="1545270686593" duration="418000" />
+      <workItem from="1545670932576" duration="19036000" />
+      <workItem from="1545829638778" duration="51000" />
+      <workItem from="1545829715213" duration="80000" />
+      <workItem from="1545829857693" duration="50000" />
+      <workItem from="1545829913255" duration="2650000" />
+      <workItem from="1546102560893" duration="7916000" />
+      <workItem from="1546503753515" duration="4995000" />
+      <workItem from="1547101185786" duration="650000" />
+      <workItem from="1547113197410" duration="1765000" />
+      <workItem from="1547461933318" duration="1416000" />
+      <workItem from="1547989882157" duration="2078000" />
+      <workItem from="1548498075929" duration="1218000" />
+      <workItem from="1548587179829" duration="632000" />
+      <workItem from="1549349070970" duration="4782000" />
+      <workItem from="1549363954972" duration="20735000" />
+      <workItem from="1550141921254" duration="33000" />
+      <workItem from="1550196029176" duration="582000" />
+      <workItem from="1550410500945" duration="590000" />
+      <workItem from="1550416672199" duration="7027000" />
+      <workItem from="1550731066894" duration="868000" />
+      <workItem from="1551951615019" duration="180000" />
+      <workItem from="1552127288312" duration="594000" />
+      <workItem from="1552305292420" duration="569000" />
+      <workItem from="1552760995555" duration="2253000" />
+      <workItem from="1553323363507" duration="7763000" />
+      <workItem from="1553930259113" duration="1924000" />
+      <workItem from="1554481900659" duration="6830000" />
+      <workItem from="1554726964222" duration="5526000" />
+      <workItem from="1555311401644" duration="1996000" />
+      <workItem from="1555579504966" duration="1242000" />
+      <workItem from="1555712148206" duration="11731000" />
+      <workItem from="1557195499892" duration="3006000" />
+      <workItem from="1557808811935" duration="589000" />
+      <workItem from="1557811749289" duration="593000" />
+      <workItem from="1557912457347" duration="1189000" />
+      <workItem from="1558241536930" duration="580000" />
+      <workItem from="1558401998574" duration="591000" />
+      <workItem from="1558681117894" duration="594000" />
+      <workItem from="1558920120890" duration="1928000" />
+      <workItem from="1560256859875" duration="4345000" />
+      <workItem from="1562056704663" duration="587000" />
+      <workItem from="1562206453037" duration="2587000" />
+      <workItem from="1563758805186" duration="591000" />
+      <workItem from="1564965085698" duration="591000" />
+      <workItem from="1565665980321" duration="1190000" />
+      <workItem from="1566206552204" duration="1309000" />
+      <workItem from="1567134102950" duration="3496000" />
+      <workItem from="1568293301263" duration="4843000" />
+      <workItem from="1568885970430" duration="1803000" />
+      <workItem from="1570177911732" duration="585000" />
+      <workItem from="1570374280083" duration="1195000" />
+      <workItem from="1571622538025" duration="1183000" />
+      <workItem from="1571710231765" duration="1190000" />
+      <workItem from="1571986296243" duration="6736000" />
+      <workItem from="1574305084079" duration="1180000" />
+      <workItem from="1574646343535" duration="588000" />
+      <workItem from="1574734671835" duration="581000" />
+      <workItem from="1575253000108" duration="580000" />
+      <workItem from="1577453543492" duration="16918000" />
+      <workItem from="1577943652780" duration="570000" />
+      <workItem from="1578279319104" duration="2418000" />
+      <workItem from="1578881960491" duration="571000" />
+      <workItem from="1578883438053" duration="1186000" />
+      <workItem from="1578904684339" duration="534000" />
+      <workItem from="1579257431582" duration="1350000" />
+      <workItem from="1579283668049" duration="593000" />
+      <workItem from="1579487392126" duration="593000" />
+      <workItem from="1579488355099" duration="587000" />
+      <workItem from="1579501295271" duration="2214000" />
+      <workItem from="1579878024097" duration="1276000" />
+      <workItem from="1580107261890" duration="77000" />
+      <workItem from="1581772045688" duration="1810000" />
+      <workItem from="1582368618442" duration="605000" />
+      <workItem from="1582459727503" duration="2382000" />
+      <workItem from="1583070735872" duration="587000" />
+      <workItem from="1583521833650" duration="1111000" />
+      <workItem from="1585476721673" duration="19768000" />
+      <workItem from="1585885211672" duration="586000" />
+      <workItem from="1585929690561" duration="60000" />
+      <workItem from="1585929787001" duration="81959000" />
+      <workItem from="1587425011830" duration="8379000" />
+      <workItem from="1587699023448" duration="2648000" />
+      <workItem from="1587788686580" duration="4894000" />
+      <workItem from="1587837311218" duration="22000" />
+      <workItem from="1587837387290" duration="7280000" />
+      <workItem from="1588548605801" duration="1432000" />
+      <workItem from="1588592068048" duration="2746000" />
+      <workItem from="1588742065184" duration="1189000" />
+      <workItem from="1588753106238" duration="589000" />
+      <workItem from="1603803767827" duration="3566000" />
+      <workItem from="1604888047011" duration="432000" />
+      <workItem from="1618725636308" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="666" y="265" key="FileChooserDialogImpl" timestamp="1588062147714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588062147714" />
+    <state width="1877" height="158" key="GridCell.Tab.0.bottom" timestamp="1585935930698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585935930698" />
+    <state width="1877" height="158" key="GridCell.Tab.0.center" timestamp="1585935930698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="158" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585935930698" />
+    <state width="1877" height="158" key="GridCell.Tab.0.left" timestamp="1585935930698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="158" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585935930698" />
+    <state width="1877" height="158" key="GridCell.Tab.0.right" timestamp="1585935930698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="158" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585935930698" />
+    <state x="440" y="98" key="SettingsEditor" timestamp="1585477595822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585477595822" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588421647805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588421647805" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Brew (1)/src (1)/core (1)/ShadowProcessor (1).java</url>
+          <line>416</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/module/post/processor/volumetric/VolumetricProcessor.java</url>
+          <line>308</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/Downloads/Brew (1)/src (1)/core (1)/ShadowProcessor (1).java</url>
+          <line>847</line>
+          <properties class="core.ShadowProcessor.Cascade" method="updateFrustum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

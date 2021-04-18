@@ -1,0 +1,1 @@
+output0 = texture(skySampler, fragment.coord.xyz);

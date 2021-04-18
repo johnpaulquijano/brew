@@ -1,0 +1,1 @@
+output0 = vec4(contourColor, materials[material].opacity);

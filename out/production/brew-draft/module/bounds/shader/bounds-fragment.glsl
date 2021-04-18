@@ -1,0 +1,1 @@
+output0 = fragment.color;
