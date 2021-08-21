@@ -1,7 +1,7 @@
 SHADOW shadow = shadows[shadowList[index]];
 LIGHT source = lights[shadowSourceList[index]];
 
-float factor = 1f;
+float factor = 1.0;
 float clipDist = shadow.clip - SHADOW_NEAR_CLIP;
 float lightToFragDist = length(lightToFragDir);
 float samplingDepth = shadowOmniDepth(index, lightToFragDir, clipDist);
@@ -33,6 +33,6 @@ if (shadow.filtered) {
     factor /= filterSamples + 1;
 }
 
-factor = factor + (1f - factor) * (1f - shadow.opacity / attenuation);
+factor = factor + (1.0 - factor) * (1.0 - shadow.opacity / attenuation);
 
 return factor;

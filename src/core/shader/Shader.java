@@ -557,6 +557,9 @@ public class Shader {
         fragmentSource += functionsFragment;
         fragmentSource += executablesFragment;
         fragmentSource += "\n";
+
+        System.out.println(vertexSource);
+        System.out.println(fragmentSource);
     }
 
     private String buildVersion() {
@@ -686,8 +689,6 @@ public class Shader {
 
             source += "};\n\n";
         }
-
-        source += "};\n\n";
 
         return source + "\n";
     }

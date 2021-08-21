@@ -2,7 +2,7 @@ vec3 n = normal;
 vec3 t = tangent;
 vec4 c = color;
 vec2 tc = texCoord;
-vec4 p = vec4(coord, 1f);
+vec4 p = vec4(coord, 1.0);
 
 p = animate(animationEnabled, p);
 

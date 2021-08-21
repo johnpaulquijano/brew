@@ -2,23 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e5ff3d1-9b1f-44f4-9f14-e6e37bee7e7a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lwjgl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lwjgl_glfw_javadoc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lwjgl.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brew-draft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/brew-draft.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/Geometry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/Geometry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/GraphicsObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/GraphicsObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/Image.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/Renderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/Renderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/ShapeGeometry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/ShapeGeometry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Geometry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/GraphicsObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/GraphicsObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Renderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/ShapeGeometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/ShapeGeometry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Texture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Texture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/AnimationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/AnimationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/core/shader/Shader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/core/shader/Shader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/brew-draft/module/shape/ShapeRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/brew-draft/module/shape/ShapeRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/shader/Shader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/shader/Shader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/bounds/shader/bounds-vertex.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/bounds/shader/bounds-vertex.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/post/processor/dof/shader/dof-blur-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/post/processor/dof/shader/dof-blur-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/post/processor/volumetric/shader/volumetric-accum-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/post/processor/volumetric/shader/volumetric-accum-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/post/shader/bright-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/post/shader/bright-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/post/shader/gaussian-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/post/shader/gaussian-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/post/shader/horizontal-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/post/shader/horizontal-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shader/shader/fsquad-fv.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shader/shader/fsquad-fv.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shader/shader/linearize-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shader/shader/linearize-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shader/shader/random-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shader/shader/random-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/ShapeRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/ShapeRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/environment/shader/reflection-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/environment/shader/reflection-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/illumination-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/illumination-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-omni-depth-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-omni-depth-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-omni-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-omni-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-omni-v.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-omni-v.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-uni-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-uni-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-uni-v.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/illumination/shader/shadow/shadow-uni-v.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-omni-depth-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-omni-depth-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-omni-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-omni-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-omni-v.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-omni-v.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-uni-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-uni-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-uni-v.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/shadow/shader/shadow-uni-v.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/processor/texture/shader/texture-ff.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/processor/texture/shader/texture-ff.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/shader/animate-fv.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/shader/animate-fv.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/shader/animate-normal-fv.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/shader/animate-normal-fv.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/shader/contour-ev.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/shader/contour-ev.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/shader/shape-ef.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/shader/shape-ef.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module/shape/shader/shape-ev.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/shape/shader/shape-ev.glsl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +72,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580100873033" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl.jar" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29166666" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -89,7 +109,7 @@
       <recent name="C:\Users\U002749\Documents\Projects\brew\src\module\shape\processor\environment\shader" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PostProcessTest">
+  <component name="RunManager" selected="Application.TraversalTest">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -126,6 +146,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NormalMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.NormalMapTest" />
+      <module name="brew-draft" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PostProcessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.PostProcessTest" />
       <module name="brew-draft" />
@@ -140,22 +174,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShadowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ShadowTest" />
+    <configuration name="TraversalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TraversalTest" />
       <module name="brew-draft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TranslucencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TranslucencyTest" />
-      <module name="brew" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -173,13 +194,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,16 +238,16 @@
       <item itemvalue="Application.AnimationTest" />
       <item itemvalue="Application.LightTest" />
       <item itemvalue="Application.PostProcessTest" />
-      <item itemvalue="Application.ShadowTest" />
-      <item itemvalue="Application.TranslucencyTest" />
+      <item itemvalue="Application.TraversalTest" />
+      <item itemvalue="Application.NormalMapTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PostProcessTest" />
-        <item itemvalue="Application.AnimationTest" />
-        <item itemvalue="Application.ShadowTest" />
+        <item itemvalue="Application.TraversalTest" />
+        <item itemvalue="Application.NormalMapTest" />
         <item itemvalue="Application.LightTest" />
-        <item itemvalue="Application.TranslucencyTest" />
+        <item itemvalue="Application.AnimationTest" />
+        <item itemvalue="Application.PostProcessTest" />
       </list>
     </recent_temporary>
   </component>
@@ -533,41 +556,14 @@
       <workItem from="1603803767827" duration="3566000" />
       <workItem from="1604888047011" duration="432000" />
       <workItem from="1618725636308" duration="302000" />
+      <workItem from="1629456706749" duration="287000" />
+      <workItem from="1629457013457" duration="890000" />
+      <workItem from="1629461040019" duration="8258000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="666" y="265" key="FileChooserDialogImpl" timestamp="1588062147714">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="666" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588062147714" />
-    <state width="1877" height="158" key="GridCell.Tab.0.bottom" timestamp="1585935930698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585935930698" />
-    <state width="1877" height="158" key="GridCell.Tab.0.center" timestamp="1585935930698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="158" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585935930698" />
-    <state width="1877" height="158" key="GridCell.Tab.0.left" timestamp="1585935930698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="158" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585935930698" />
-    <state width="1877" height="158" key="GridCell.Tab.0.right" timestamp="1585935930698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="158" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585935930698" />
-    <state x="440" y="98" key="SettingsEditor" timestamp="1585477595822">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="440" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585477595822" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588421647805">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588421647805" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

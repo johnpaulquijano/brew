@@ -1,1 +1,1 @@
-return (2f * near) / (far + near - depth * (far - near));
+return (2.0 * near) / (far + near - depth * (far - near));

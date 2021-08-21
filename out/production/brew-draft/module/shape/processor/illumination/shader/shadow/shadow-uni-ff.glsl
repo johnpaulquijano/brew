@@ -1,4 +1,4 @@
-float factor = 1f;
+float factor = 1.0;
 SHADOW shadow = shadows[shadowList[index]];
 LIGHT source = lights[shadowSourceList[index]];
 float filterDensity = shadow.filterDensity;
@@ -22,6 +22,6 @@ if (shadow.filtered) {
     factor /= shadow.filterSamples + 1;
 }
 
-factor = factor + (1f - factor) * (1f - shadow.opacity / lightAttenuation);
+factor = factor + (1.0 - factor) * (1.0 - shadow.opacity / lightAttenuation);
 
 return factor;

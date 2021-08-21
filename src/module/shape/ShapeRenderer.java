@@ -39,6 +39,7 @@ public class ShapeRenderer extends RenderingModule implements TraverserListener,
     private Variable material_u;
     private Variable lightingEnabled_u;
     private Variable animationEnabled_u;
+    private Variable shadowSources_u;
     private Function animate_f;
     private Function animate_normal_f;
     private Executable shape_e;
@@ -508,6 +509,9 @@ public class ShapeRenderer extends RenderingModule implements TraverserListener,
 
         thickness_u = new Variable(Shader.Type.FLOAT, "contourThickness", null, 0, Shader.Qualifier.UNIFORM);
         shader.addVariable(thickness_u);
+
+        shadowSources_u = new Variable(Shader.Type.INT, "shadowSourceList", null, Shape.MAX_SHADOWS, Shader.Qualifier.UNIFORM);
+        shader.addVariable(shadowSources_u);
 
         /**
          * Initialize functions.

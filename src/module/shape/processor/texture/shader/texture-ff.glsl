@@ -19,7 +19,7 @@ for (int i = 0; i < numTextures; i++) {
     }
 }
 
-if (outputColor.a <= 0f) {
+if (outputColor.a <= 0) {
     discard;
 }
 

@@ -1,5 +1,5 @@
 vec3 n = normal;
-vec4 p = vec4(coord, 1f);
+vec4 p = vec4(coord, 1.0);
 
 p = animate(animationEnabled, p);
 n = animate_normal(animationEnabled, n);

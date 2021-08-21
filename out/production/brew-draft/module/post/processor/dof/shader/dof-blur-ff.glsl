@@ -13,7 +13,7 @@ if (dofDiskBlurEnabled) {
         float tapFactor = tapBlur.a;
 
         vec4 tap = mix(tapBase, tapBlur, tapFactor);
-        tap.a = mix(tap.a, 1f, tap.a >= cocFactor);
+        tap.a = mix(tap.a, 1.0, tap.a >= cocFactor);
 
         blend.rgb += tap.rgb * tap.a;
         blend.a += tap.a;

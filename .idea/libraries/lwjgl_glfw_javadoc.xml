@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lwjgl-glfw-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-glfw-natives-windows.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-glfw.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-natives-windows.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-opengl-natives-windows.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-opengl.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-glfw-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-opengl-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-glfw-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-opengl-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Libraries/lwjgl-3.2.0/lwjgl-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
